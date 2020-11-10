@@ -12,6 +12,7 @@ From the linear regression above:
 ## Summary Statistics on Suspension Coils
 ![total_summary](https://github.com/pratishthasingh1/MechaCar_Statistical_Analysis/blob/main/total_summary.png?raw=true)
 Dataframe shows mean, median, variance and standard deviation of the suspension coil's PSI of all data. 
+
 ![lot_summary](https://github.com/pratishthasingh1/MechaCar_Statistical_Analysis/blob/main/lot_summary.png?raw=true)
 Dataframe shows mean,median, variance, standard deviation of the suspension coil's PSI in 3 different lots.
 
