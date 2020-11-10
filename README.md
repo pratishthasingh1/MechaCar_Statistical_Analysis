@@ -2,7 +2,6 @@
 
 ## Linear Regression to Predict MPG
 ![summary](https://github.com/pratishthasingh1/MechaCar_Statistical_Analysis/blob/main/LM.png?raw=true)
-# Summary 
 From the linear regression above: 
 * The variables that provided a non-random amount of variance to the MPG values in the dataset are vehicle_length (t-value = 9.563) and ground_clearance (t-value = 6.551). This indicates the vehicle_length variable and ground_clearance deviating from the variance to the MPG values is not a random occurance.
 
@@ -20,6 +19,21 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 ## T-Tests on Suspension Coils
 T-tests were conducted on Lot 1, 2 and 3 to determine if the PSI for each manufacturing lot is statistically different from the population mean of 1,500 pounds per square inch. The p-values for Lot 1, 2, and 3 were 1, 0.61, and 0.04 respectively. Assuming our significance level is the common 0.05 percent, our p-values are above the significance level for Lot 1 and Lot 2. Therefore, there is not sufficient effidence to reject the null hypothesis so two means are statistically similar for those two lots. Lot 3 shows they are statistically different. Below are the t-test outputs for each of the lots. 
+![Lot1](https://github.com/pratishthasingh1/MechaCar_Statistical_Analysis/blob/main/Lot1.png?raw=true)
+![Lot2](https://github.com/pratishthasingh1/MechaCar_Statistical_Analysis/blob/main/Lot2.png?raw=true)
+![Lot3](https://github.com/pratishthasingh1/MechaCar_Statistical_Analysis/blob/main/Lot3.png?raw=true)
 
 ## Study Design: MechaCar vs. Competition 
-A study design to show how MechaCar performs against the competition. 
+A study design to show how MechaCar performs against the competition. To serve the interest of a consumer, I would test cost and city or highway fuel efficiency. 
+
+The null hypothesis for this would be: 
+There is no difference between MechaCar and competition in terms of cost. 
+OR : There is no difference between MechaCar and competition in terms of city fuel efficiency. 
+OR:  There is no difference between MechaCar and competition in terms of highway fuel efficiency. 
+The alternative hypothesis for this would be: 
+MechaCar is more affordable compared to the competition when we look at the different.
+OR : MechaCar has better city fuel efficiency compared to the competition for each of the levels. 
+OR:  MechaCar has better highway fuel efficiency compared to the competition. 
+
+
+For each of the variables above, I would test how city fuel efficiency (or highway fuel efficiency) affects cost for each of the cars to determine which car is most cost effective. 
