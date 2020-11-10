@@ -10,9 +10,9 @@ From the linear regression above:
 * The linear model is effective approximately 71% of the time in predicting MPG of MechCAR prototype (multiple R-Squared = 0.7149).
 
 ## Summary Statistics on Suspension Coils
-[total_summary]
+[total_summary](https://github.com/pratishthasingh1/MechaCar_Statistical_Analysis/blob/main/total_summary.png?raw=true)
 Dataframe shows mean, median, variance and standard deviation of the suspension coil's PSI of all data. 
-[lot_summary]
+[lot_summary](https://github.com/pratishthasingh1/MechaCar_Statistical_Analysis/blob/main/lot_summary.png?raw=true)
 Dataframe shows mean,median, variance, standard deviation of the suspension coil's PSI in 3 different lots.
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Looking at the total_summary, it seems that the cars all together would pass this requirement; however, when you look at the lot_summary, Lot 3 has a variance of 170. This means the PSI can be greater or lower than the mean of 1496 PSI by 170 PSIs, which is greater than 100.
