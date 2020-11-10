@@ -27,13 +27,13 @@ T-tests were conducted on Lot 1, 2 and 3 to determine if the PSI for each manufa
 A study design to show how MechaCar performs against the competition. To serve the interest of a consumer, I would test cost and city or highway fuel efficiency. 
 
 The null hypothesis for this would be: 
-There is no difference between MechaCar and competition in terms of cost. 
-OR : There is no difference between MechaCar and competition in terms of city fuel efficiency. 
-OR:  There is no difference between MechaCar and competition in terms of highway fuel efficiency. 
+* There is no difference between MechaCar and competition in terms of cost. 
+* OR : There is no difference between MechaCar and competition in terms of city fuel efficiency. 
+* OR:  There is no difference between MechaCar and competition in terms of highway fuel efficiency. 
 The alternative hypothesis for this would be: 
-MechaCar is more affordable compared to the competition when we look at the different.
-OR : MechaCar has better city fuel efficiency compared to the competition for each of the levels. 
-OR:  MechaCar has better highway fuel efficiency compared to the competition. 
+* MechaCar is more affordable compared to the competition when we look at the different fuel efficiencies.
+* OR : MechaCar has better city fuel efficiency compared to the competition for each of the levels after driving at least 10 miles. 
+* OR:  MechaCar has better highway fuel efficiency compared to the competitionafter driving at least 40 miles. 
 
 
 For each of the variables above, I would test how city fuel efficiency (or highway fuel efficiency) affects cost for each of the cars to determine which car is most cost effective. 
