@@ -1,7 +1,7 @@
 # Can MPG of MechCar Be Predicted from Vehicle Length, Vehicle Weight, Spoiler Angle, Ground Clearance and AWD?
 
 ## Linear Regression to Predict MPG
-[insert summary]
+![summary](https://github.com/pratishthasingh1/MechaCar_Statistical_Analysis/blob/main/LM.png?raw=true)
 # Summary 
 From the linear regression above: 
 * The variables that provided a non-random amount of variance to the MPG values in the dataset are vehicle_length (t-value = 9.563) and ground_clearance (t-value = 6.551). This indicates the vehicle_length variable and ground_clearance deviating from the variance to the MPG values is not a random occurance.
